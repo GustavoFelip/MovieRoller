@@ -4,7 +4,7 @@
 
 # Movie Roller
 
-**Um dado fluido em Jetpack Compose, feito para rodar bem até em celular pequeno.**
+**Um aplicativo em Jetpack Compose, feito para rodar bem até em celular pequeno.**
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-2.2.10-7F52FF?logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-Material%203-4285F4?logo=jetpackcompose&logoColor=white)
